@@ -1,3 +1,4 @@
+![background image](https://img.freepik.com/free-vector/cartoon-gamer-room-illustration_52683-60981.jpg?size=626&ext=jpg)
 - 👋 Hi, I’m @Sourodip20kar
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning backend development.
