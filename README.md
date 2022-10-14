@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![@sourodip20kar's Holopin board](https://holopin.io/api/user/board?user=sourodip20kar)](https://holopin.io/@sourodip20kar)
+
+<a href="https://app.daily.dev/Sourodip20kar"><img src="https://api.daily.dev/devcards/162f147ad35d4b148d032ebea764f6d6.png?r=xpy" width="400" alt="SOURODIP KAR's Dev Card"/></a>
